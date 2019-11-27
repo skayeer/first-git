@@ -1,3 +1,4 @@
 print("Hello world")
 Новая строка для ветки master
 Hello Git rebase
+Hello, git cherry-pick!
